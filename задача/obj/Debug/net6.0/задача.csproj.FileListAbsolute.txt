@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\bin\Debug\net6.0\задача.exe
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\bin\Debug\net6.0\задача.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\bin\Debug\net6.0\задача.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\bin\Debug\net6.0\задача.dll
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\bin\Debug\net6.0\задача.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\obj\Debug\net6.0\задача.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\obj\Debug\net6.0\задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\obj\Debug\net6.0\задача.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\obj\Debug\net6.0\задача.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\obj\Debug\net6.0\задача.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\obj\Debug\net6.0\задача.dll
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\obj\Debug\net6.0\refint\задача.dll
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\obj\Debug\net6.0\задача.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\obj\Debug\net6.0\задача.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\контрольная работа\задача\obj\Debug\net6.0\ref\задача.dll
